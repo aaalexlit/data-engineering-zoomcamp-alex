@@ -1,0 +1,12 @@
+triggers:
+- envs: []
+  last_enabled_at: 2024-02-07 06:36:54.671754
+  name: daily_morning
+  pipeline_uuid: green_taxi_etl
+  schedule_interval: 0 5 * * *
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2024-02-06 05:57:00
+  status: active
+  variables: {}
