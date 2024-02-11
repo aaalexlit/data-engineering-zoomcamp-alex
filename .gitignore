@@ -185,3 +185,5 @@ mage_data*
 *.csv
 extensions
 interactions
+
+*.duckdb
