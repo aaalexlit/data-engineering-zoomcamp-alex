@@ -23,13 +23,13 @@ variable "project_id" {
 variable "region" {
   type        = string
   description = "The default compute region"
-  default     = "europe-west1"
+  default     = "us-central1"
 }
 
 variable "zone" {
   type        = string
   description = "The default compute zone"
-  default     = "europe-west1-b"
+  default     = "us-central1-a"
 }
 
 variable "repository" {

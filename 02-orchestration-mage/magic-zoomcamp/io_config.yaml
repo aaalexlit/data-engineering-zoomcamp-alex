@@ -143,4 +143,4 @@ dev:
   POSTGRES_PORT: "{{ env_var('POSTGRES_PORT') }}"
 
   GOOGLE_SERVICE_ACC_KEY_FILEPATH: /home/src/credentials.json
-  GOOGLE_LOCATION: EU # Optional
+  GOOGLE_LOCATION: US # Optional
