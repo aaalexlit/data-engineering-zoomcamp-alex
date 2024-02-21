@@ -5,3 +5,4 @@ psycopg2-binary
 pyarrow 
 dlt[duckdb]
 streamlit
+dbt-postgres
