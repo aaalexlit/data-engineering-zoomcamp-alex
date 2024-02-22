@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: staging
+    database: eighth-jigsaw-412620
+     # For postgres:
+      #database: production
+    schema: taxi_trips_dbt
+
+    tables:
+      - name: green_tripdata_19_20
+      - name: yellow_tripdata_19_20
