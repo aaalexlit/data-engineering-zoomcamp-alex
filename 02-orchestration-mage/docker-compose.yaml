@@ -5,9 +5,6 @@ services:
     command: mage start ${PROJECT_NAME}
     env_file:
       - .env
-    build:
-      context: .
-      dockerfile: Dockerfile
     environment:
       USER_CODE_PATH: /home/src/${PROJECT_NAME}
       POSTGRES_DBNAME: ${POSTGRES_DBNAME}
