@@ -10,3 +10,4 @@ sources:
     tables:
       - name: green_tripdata_19_20
       - name: yellow_tripdata_19_20
+      - name: fhv_tripdata_2019
