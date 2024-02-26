@@ -189,3 +189,5 @@ interactions
 *.duckdb
 
 !taxi_zone_lookup.csv
+
+zones

@@ -6,3 +6,5 @@ pyarrow
 dlt[duckdb]
 streamlit
 dbt-postgres
+pyspark
+findspark
