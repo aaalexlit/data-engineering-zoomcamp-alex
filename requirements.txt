@@ -8,3 +8,4 @@ streamlit
 dbt-postgres
 pyspark
 findspark
+google-cloud-storage
